@@ -1,4 +1,4 @@
-# Network_Security_Analysis
+# Network_Security
 ## ABOUT
 This Project focuses on the Network Topologies and implementation and architecture of system design in XYZ Company(For security reasons cannot disclose the Company name). In this project as a study case of IT security plans and policies of XYZ Company Network Security Analysis are used as a source of understanding and implementation of the security policies in an organization and implementation of real time procedure and practices in organization in security plan analysis. Several recommendations are also made according to the importance to prevent security breaches from occurring. 
  ## Part I: Identify a local company for  project
